@@ -1,0 +1,1 @@
+Your run compiles into the live checker and a public repo under your name. The checker carries your calibration — a stranger gets your counting discipline, not a generic rubric. Verification runs before anything ships.
