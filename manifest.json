@@ -1,0 +1,68 @@
+{
+  "verificationToken": "01KYR34SSJD63WCGNXJH9WNJDE",
+  "courseId": "2ad65768-198c-5614-ba63-948602ecc629",
+  "chapterId": "2a930c0a-509a-5dcc-aafb-c7b1eef30dfe",
+  "templateId": "baw_c002_ch02",
+  "variants": [
+    {
+      "id": "README.md",
+      "path": "README.md"
+    },
+    {
+      "id": "charter.md",
+      "path": "charter.md"
+    },
+    {
+      "id": "blueprints/token-fit-checker.md",
+      "path": "blueprints/token-fit-checker.md"
+    },
+    {
+      "id": "prompts/token-fit-pack.md",
+      "path": "prompts/token-fit-pack.md"
+    },
+    {
+      "id": "METHOD.md",
+      "path": "METHOD.md"
+    },
+    {
+      "id": "VERIFY.md",
+      "path": "VERIFY.md"
+    },
+    {
+      "id": ".ep/provenance.json",
+      "path": ".ep/provenance.json.md"
+    },
+    {
+      "id": "skills/token-fit-advisor.skill.md",
+      "path": "skills/token-fit-advisor.skill.md"
+    },
+    {
+      "id": "data/lane-fit-sheet.md",
+      "path": "data/lane-fit-sheet.md"
+    },
+    {
+      "id": "tests/probe-board.md",
+      "path": "tests/probe-board.md"
+    },
+    {
+      "id": "tests/pass-gate.md",
+      "path": "tests/pass-gate.md"
+    },
+    {
+      "id": "tests/probes.jsonl",
+      "path": "tests/probes.jsonl"
+    },
+    {
+      "id": "tests/run-local.md",
+      "path": "tests/run-local.md"
+    },
+    {
+      "id": "STORY.md",
+      "path": "STORY.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-07-29T23:25:21.074Z",
+  "compositionMode": "shipgen"
+}
